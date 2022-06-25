@@ -32,7 +32,7 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/WMTeams/11 https://t.me/WMTeams/14</code>
+<code>/batch https://t.me/puthanpadam4/11 https://t.me/puthanpadam4/14</code>
 
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/malayalam_movies_request_hd><b>𝗪𝗔𝗧𝗖𝗛 𝗠𝗢𝗩𝗜𝗘𝗦</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
