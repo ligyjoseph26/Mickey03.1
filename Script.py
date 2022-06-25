@@ -34,7 +34,7 @@ class script(object):
 
 <code>/batch https://t.me/WMTeams/11 https://t.me/WMTeams/14</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/WATCHMOVIEOFFICIALV><b>𝗪𝗔𝗧𝗖𝗛 𝗠𝗢𝗩𝗜𝗘𝗦</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/malayalam_movies_request_hd><b>𝗪𝗔𝗧𝗖𝗛 𝗠𝗢𝗩𝗜𝗘𝗦</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
