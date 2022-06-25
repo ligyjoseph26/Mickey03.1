@@ -103,9 +103,9 @@ Translate text to speech
 
 <b>NOTE:</b>
 
-• IMDb should have admin privillage.
+• ✘ Aɴᴅʀᴇᴡ ✘ should have admin privillage.
 • These commands works on both pm and group.
-• IMDb can translate texts to 200+ languages."""
+• ✘ Aɴᴅʀᴇᴡ ✘ can translate texts to 200+ languages."""
     PINGS_TXT ="""<b>🌟 Ping:</b>
 
 Helps you to know your ping 🚶🏼‍♂️
