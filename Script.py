@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """ IAM JUST A  Auto-Filter-Bot {}
-➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝙈𝙧 𝙀𝙫𝙖
+➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : ✘ Aɴᴅʀᴇᴡ ✘
 ➪ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/ptstark'>VISHNU 🕵️‍♂️</a>
 ➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : <code>Everyone in this journey</code>
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ 📜</a>
